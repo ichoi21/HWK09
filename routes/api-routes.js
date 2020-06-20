@@ -12,7 +12,6 @@ router.get("/notes", (req, res) => {
       notesDB[i].id = i + 1;
     }
   }
-
   res.json(notesDB);
 });
 
@@ -31,7 +30,6 @@ router.post("/notes", (req, res) => {
       if (err) throw err;
     }
   );
-
   res.json(newNote);
 });
 
@@ -50,7 +48,6 @@ router.delete("/notes/:id", (req, res) => {
       if (err) throw err;
     }
   );
-
   res.json(notesDB);
 });
 

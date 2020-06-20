@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a web application that can be used to write, save, and delete notes written with express while it saves and retrieves note data from a JSON file.
+This is a web application that can be used to write, save, and delete notes written with express while it saves and retrieves note data from a JSON file. It is deployed on [Heroku](https://ic-notetaker.herokuapp.com/)
 
 ```
 AS A user, I want to be able to write and save notes
