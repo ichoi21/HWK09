@@ -44,7 +44,7 @@ user: [ichoi21](https://github.com/ichoi21) | email: ic@g.co | repos: [Click Her
 - [Bootstrap](https://getbootstrap.com/)
 - JavaScript
 - [Node](https://nodejs.org/en/)
-- [Express](https://expressjs.com/) "^4.17.1
+- [Express](https://expressjs.com/) "^4.17.1"
 
 ### Minimum Requirements
 
