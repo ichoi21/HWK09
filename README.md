@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a web application that can be used to write, save, and delete notes written with express while it saves and retrieves note data from a JSON file. It is deployed on [Heroku](https://ic-notetaker.herokuapp.com/)
+This is a web application that can be used to write, save, and delete notes written with express while it saves and retrieves note data from a JSON file. It is deployed on [Heroku](https://ic-notetaker.herokuapp.com/).
 
 ```
 AS A user, I want to be able to write and save notes
@@ -14,7 +14,7 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 #### Author(s)
 
-![user's avatar](https://avatars3.githubusercontent.com/u/58826890?v=4 = 50%)<br>
+![user's avatar](https://avatars.githubusercontent.com/u/58826890?v=4&s=100)
 user: [ichoi21](https://github.com/ichoi21) | email: ic@g.co | repos: [Click Here](https://github.com/ichoi21?tab=repositories)
 
 ---
@@ -54,7 +54,12 @@ user: [ichoi21](https://github.com/ichoi21) | email: ic@g.co | repos: [Click Her
 
 ### How to install
 
-Perform the following: npm start
+Perform the following:
+
+```bash
+npm i -y
+npm i express
+```
 
 ### Intended Usage
 
